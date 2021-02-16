@@ -1,0 +1,1180 @@
+[
+    {
+        "begin_at": "2020-11-27T06:00:00Z",
+        "description": null,
+        "end_at": null,
+        "full_name": "Spring 2021",
+        "id": 3148,
+        "league": {
+            "id": 4141,
+            "image_url": "https://cdn.pandascore.co/images/league/image/4141/_.png",
+            "modified_at": "2019-03-05T19:00:13Z",
+            "name": "VCS",
+            "slug": "league-of-legends-vcs",
+            "url": "https://c-6rtwjumjzx7877x24ahx78x2eqnjsrnsmx2elfwjsfx2eas.g00.gamepedia.com/g00/3_c-6qtq.lfrjujinf.htr_/c-6RTWJUMJZX77x24myyux3ax2fx2fahx78.qnjsrnsm.lfwjsf.asx2f_$/$?i10c.ua=1&i10c.dv=14"
+        },
+        "league_id": 4141,
+        "modified_at": "2021-02-05T14:20:09Z",
+        "name": null,
+        "season": "Spring",
+        "slug": "league-of-legends-vcs-spring-2021",
+        "tier": "b",
+        "tournaments": [
+            {
+                "begin_at": "2020-11-27T06:00:00Z",
+                "end_at": "2020-11-30T11:10:00Z",
+                "id": 5138,
+                "league_id": 4141,
+                "live_supported": false,
+                "modified_at": "2021-02-05T14:20:09Z",
+                "name": "Promotion",
+                "prizepool": null,
+                "serie_id": 3148,
+                "slug": "league-of-legends-vcs-spring-2021-promotion",
+                "winner_id": null,
+                "winner_type": "Team"
+            },
+            {
+                "begin_at": "2021-01-22T10:00:00Z",
+                "end_at": "2021-05-05T10:10:00Z",
+                "id": 5323,
+                "league_id": 4141,
+                "live_supported": true,
+                "modified_at": "2021-02-05T14:20:09Z",
+                "name": "Regular Season",
+                "prizepool": null,
+                "serie_id": 3148,
+                "slug": "league-of-legends-vcs-spring-2021-regular-season",
+                "winner_id": null,
+                "winner_type": "Team"
+            }
+        ],
+        "videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "videogame_title": null,
+        "winner_id": null,
+        "winner_type": null,
+        "year": 2021
+    },
+    {
+        "begin_at": "2021-01-08T23:00:00Z",
+        "description": null,
+        "end_at": null,
+        "full_name": "Season 2021",
+        "id": 3230,
+        "league": {
+            "id": 294,
+            "image_url": "https://cdn.pandascore.co/images/league/image/294/220px-LPL_2020.png",
+            "modified_at": "2020-06-02T08:53:12Z",
+            "name": "LPL",
+            "slug": "league-of-legends-lpl-china",
+            "url": "http://www.lolesports.com/en_US/lpl-china"
+        },
+        "league_id": 294,
+        "modified_at": "2021-01-03T13:48:51Z",
+        "name": "Season",
+        "season": "",
+        "slug": "league-of-legends-lpl-china-season-2021",
+        "tier": "a",
+        "tournaments": [
+            {
+                "begin_at": "2021-01-09T09:00:00Z",
+                "end_at": null,
+                "id": 5310,
+                "league_id": 294,
+                "live_supported": true,
+                "modified_at": "2021-02-01T12:53:30Z",
+                "name": "Regular",
+                "prizepool": null,
+                "serie_id": 3230,
+                "slug": "league-of-legends-lpl-china-season-2021-regular",
+                "winner_id": null,
+                "winner_type": "Team"
+            }
+        ],
+        "videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "videogame_title": null,
+        "winner_id": null,
+        "winner_type": null,
+        "year": 2021
+    },
+    {
+        "begin_at": "2021-01-11T18:00:00Z",
+        "description": null,
+        "end_at": null,
+        "full_name": "Spring 2021",
+        "id": 3248,
+        "league": {
+            "id": 4401,
+            "image_url": "https://cdn.pandascore.co/images/league/image/4401/220px-Belgian_League.png",
+            "modified_at": "2020-06-01T15:15:34Z",
+            "name": "Belgian League",
+            "slug": "league-of-legends-belgian-league",
+            "url": "https://belgianleague.lol/"
+        },
+        "league_id": 4401,
+        "modified_at": "2021-01-09T08:03:21Z",
+        "name": "",
+        "season": "Spring",
+        "slug": "league-of-legends-belgian-league-spring-2021",
+        "tier": "c",
+        "tournaments": [
+            {
+                "begin_at": "2021-01-11T18:00:00Z",
+                "end_at": null,
+                "id": 5339,
+                "league_id": 4401,
+                "live_supported": false,
+                "modified_at": "2021-02-11T13:46:07Z",
+                "name": "Regular Season",
+                "prizepool": null,
+                "serie_id": 3248,
+                "slug": "league-of-legends-belgian-league-spring-2021-regular-season",
+                "winner_id": null,
+                "winner_type": "Team"
+            }
+        ],
+        "videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "videogame_title": null,
+        "winner_id": null,
+        "winner_type": null,
+        "year": 2021
+    },
+    {
+        "begin_at": "2021-01-12T18:00:00Z",
+        "description": null,
+        "end_at": null,
+        "full_name": "Spring 2021",
+        "id": 3249,
+        "league": {
+            "id": 4402,
+            "image_url": "https://cdn.pandascore.co/images/league/image/4402/220px-Dutch_League.png",
+            "modified_at": "2020-06-01T20:15:19Z",
+            "name": "Dutch League",
+            "slug": "league-of-legends-dutch-league",
+            "url": "https://dutchleague.lol/"
+        },
+        "league_id": 4402,
+        "modified_at": "2021-01-09T08:36:49Z",
+        "name": "",
+        "season": "Spring",
+        "slug": "league-of-legends-dutch-league-spring-2021",
+        "tier": "c",
+        "tournaments": [
+            {
+                "begin_at": "2021-01-12T18:00:00Z",
+                "end_at": null,
+                "id": 5340,
+                "league_id": 4402,
+                "live_supported": false,
+                "modified_at": "2021-01-26T22:45:49Z",
+                "name": "Regular Season",
+                "prizepool": null,
+                "serie_id": 3249,
+                "slug": "league-of-legends-dutch-league-spring-2021-regular-season",
+                "winner_id": null,
+                "winner_type": "Team"
+            }
+        ],
+        "videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "videogame_title": null,
+        "winner_id": null,
+        "winner_type": null,
+        "year": 2021
+    },
+    {
+        "begin_at": "2021-01-13T06:00:00Z",
+        "description": null,
+        "end_at": null,
+        "full_name": "Spring 2021",
+        "id": 3257,
+        "league": {
+            "id": 4226,
+            "image_url": "https://cdn.pandascore.co/images/league/image/4226/LDL_logo.png",
+            "modified_at": "2019-06-20T07:57:08Z",
+            "name": "LDL",
+            "slug": "league-of-legends-ldl",
+            "url": "https://liquipedia.net/leagueoflegends/LDL/2019/Spring"
+        },
+        "league_id": 4226,
+        "modified_at": "2021-01-13T09:28:03Z",
+        "name": null,
+        "season": "Spring",
+        "slug": "league-of-legends-ldl-spring-2021",
+        "tier": "b",
+        "tournaments": [
+            {
+                "begin_at": "2021-01-13T06:00:00Z",
+                "end_at": null,
+                "id": 5348,
+                "league_id": 4226,
+                "live_supported": false,
+                "modified_at": "2021-02-10T20:05:51Z",
+                "name": "Regular season",
+                "prizepool": null,
+                "serie_id": 3257,
+                "slug": "league-of-legends-ldl-spring-2021-regular-season",
+                "winner_id": null,
+                "winner_type": "Team"
+            }
+        ],
+        "videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "videogame_title": null,
+        "winner_id": null,
+        "winner_type": null,
+        "year": 2021
+    },
+    {
+        "begin_at": "2021-01-13T08:00:00Z",
+        "description": null,
+        "end_at": null,
+        "full_name": "Spring 2021",
+        "id": 3235,
+        "league": {
+            "id": 293,
+            "image_url": "https://cdn.pandascore.co/images/league/image/293/LCK_2021_logo.png",
+            "modified_at": "2021-01-06T15:41:48Z",
+            "name": "LCK",
+            "slug": "league-of-legends-lck-champions-korea",
+            "url": null
+        },
+        "league_id": 293,
+        "modified_at": "2021-01-05T15:51:00Z",
+        "name": "",
+        "season": "Spring",
+        "slug": "league-of-legends-lck-champions-korea-spring-2021",
+        "tier": "a",
+        "tournaments": [
+            {
+                "begin_at": "2021-01-13T08:00:00Z",
+                "end_at": null,
+                "id": 5316,
+                "league_id": 293,
+                "live_supported": true,
+                "modified_at": "2021-02-09T03:52:16Z",
+                "name": "Regular Season",
+                "prizepool": null,
+                "serie_id": 3235,
+                "slug": "league-of-legends-lck-champions-korea-spring-2021-regular-season",
+                "winner_id": null,
+                "winner_type": "Team"
+            }
+        ],
+        "videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "videogame_title": null,
+        "winner_id": null,
+        "winner_type": null,
+        "year": 2021
+    },
+    {
+        "begin_at": "2021-01-16T16:00:00Z",
+        "description": null,
+        "end_at": null,
+        "full_name": "Split 1 2021",
+        "id": 3240,
+        "league": {
+            "id": 302,
+            "image_url": "https://cdn.pandascore.co/images/league/image/302/cblol-brazil-dba70xuw.png",
+            "modified_at": "2019-03-05T19:00:11Z",
+            "name": "CBLOL",
+            "slug": "league-of-legends-cblol-brazil",
+            "url": null
+        },
+        "league_id": 302,
+        "modified_at": "2021-01-07T08:21:47Z",
+        "name": "Split 1",
+        "season": null,
+        "slug": "league-of-legends-cblol-brazil-split-1-2021",
+        "tier": "b",
+        "tournaments": [
+            {
+                "begin_at": "2021-01-16T16:00:00Z",
+                "end_at": null,
+                "id": 5329,
+                "league_id": 302,
+                "live_supported": true,
+                "modified_at": "2021-02-13T19:42:17Z",
+                "name": "Regular Season",
+                "prizepool": null,
+                "serie_id": 3240,
+                "slug": "league-of-legends-cblol-brazil-split-1-2021-regular-season",
+                "winner_id": null,
+                "winner_type": "Team"
+            }
+        ],
+        "videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "videogame_title": null,
+        "winner_id": null,
+        "winner_type": null,
+        "year": 2021
+    },
+    {
+        "begin_at": "2021-01-18T08:00:00Z",
+        "description": null,
+        "end_at": null,
+        "full_name": "LCK CL Spring 2021",
+        "id": 3259,
+        "league": {
+            "id": 4142,
+            "image_url": "https://cdn.pandascore.co/images/league/image/4142/_.png",
+            "modified_at": "2019-03-04T14:01:30Z",
+            "name": "Challenger Korea",
+            "slug": "league-of-legends-challenger-korea",
+            "url": "https://lol.gamepedia.com/Challengers_Korea/2018_Season/Summer_Season#Schedule"
+        },
+        "league_id": 4142,
+        "modified_at": "2021-01-13T09:57:34Z",
+        "name": "LCK CL",
+        "season": "Spring",
+        "slug": "league-of-legends-challenger-korea-lck-cl-spring-2021",
+        "tier": "c",
+        "tournaments": [
+            {
+                "begin_at": "2021-01-18T08:00:00Z",
+                "end_at": null,
+                "id": 5357,
+                "league_id": 4142,
+                "live_supported": false,
+                "modified_at": "2021-02-08T19:47:32Z",
+                "name": "Regular",
+                "prizepool": null,
+                "serie_id": 3259,
+                "slug": "league-of-legends-challenger-korea-lck-cl-spring-2021-regular",
+                "winner_id": null,
+                "winner_type": "Team"
+            }
+        ],
+        "videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "videogame_title": null,
+        "winner_id": null,
+        "winner_type": null,
+        "year": 2021
+    },
+    {
+        "begin_at": "2021-01-18T17:00:00Z",
+        "description": null,
+        "end_at": null,
+        "full_name": "Spring 2021",
+        "id": 3255,
+        "league": {
+            "id": 4213,
+            "image_url": "https://cdn.pandascore.co/images/league/image/4213/220px-SLO2019logo.png",
+            "modified_at": "2020-06-05T20:28:18Z",
+            "name": "LVP SLO",
+            "slug": "league-of-legends-lvp-slo",
+            "url": null
+        },
+        "league_id": 4213,
+        "modified_at": "2021-01-12T10:02:44Z",
+        "name": "",
+        "season": "Spring",
+        "slug": "league-of-legends-lvp-slo-spring-2021",
+        "tier": "c",
+        "tournaments": [
+            {
+                "begin_at": "2021-01-18T17:00:00Z",
+                "end_at": null,
+                "id": 5346,
+                "league_id": 4213,
+                "live_supported": false,
+                "modified_at": "2021-02-15T07:46:16Z",
+                "name": "Regular Season",
+                "prizepool": null,
+                "serie_id": 3255,
+                "slug": "league-of-legends-lvp-slo-spring-2021-regular-season",
+                "winner_id": null,
+                "winner_type": "Team"
+            }
+        ],
+        "videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "videogame_title": null,
+        "winner_id": null,
+        "winner_type": null,
+        "year": 2021
+    },
+    {
+        "begin_at": "2021-01-19T16:30:00Z",
+        "description": null,
+        "end_at": null,
+        "full_name": "Summer 2021",
+        "id": 3267,
+        "league": {
+            "id": 4300,
+            "image_url": "https://cdn.pandascore.co/images/league/image/4300/220px-Ultraliga.PNG",
+            "modified_at": "2020-01-18T11:05:05Z",
+            "name": "Ultraliga",
+            "slug": "league-of-legends-ultraliga",
+            "url": "https://www.ultraliga.pl/"
+        },
+        "league_id": 4300,
+        "modified_at": "2021-01-14T12:33:26Z",
+        "name": "",
+        "season": "Summer",
+        "slug": "league-of-legends-ultraliga-summer-2021",
+        "tier": "c",
+        "tournaments": [
+            {
+                "begin_at": "2021-01-19T16:30:00Z",
+                "end_at": null,
+                "id": 5370,
+                "league_id": 4300,
+                "live_supported": false,
+                "modified_at": "2021-02-02T20:30:18Z",
+                "name": "Regular Season",
+                "prizepool": null,
+                "serie_id": 3267,
+                "slug": "league-of-legends-ultraliga-summer-2021-regular-season",
+                "winner_id": null,
+                "winner_type": "Team"
+            }
+        ],
+        "videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "videogame_title": null,
+        "winner_id": null,
+        "winner_type": null,
+        "year": 2021
+    },
+    {
+        "begin_at": "2021-01-19T17:00:00Z",
+        "description": null,
+        "end_at": null,
+        "full_name": "Spring 2021",
+        "id": 3254,
+        "league": {
+            "id": 4302,
+            "image_url": "https://cdn.pandascore.co/images/league/image/4302/220px-Prime_Leaguelogo_square.png",
+            "modified_at": "2020-01-20T16:20:40Z",
+            "name": "Prime League Pro Division",
+            "slug": "league-of-legends-prime-league-pro-division",
+            "url": "https://www.primeleague.gg/de/start"
+        },
+        "league_id": 4302,
+        "modified_at": "2021-01-12T08:59:18Z",
+        "name": "",
+        "season": "Spring",
+        "slug": "league-of-legends-prime-league-pro-division-spring-2021",
+        "tier": "c",
+        "tournaments": [
+            {
+                "begin_at": "2021-01-19T17:00:00Z",
+                "end_at": null,
+                "id": 5345,
+                "league_id": 4302,
+                "live_supported": false,
+                "modified_at": "2021-01-26T22:48:30Z",
+                "name": "Regular Season",
+                "prizepool": null,
+                "serie_id": 3254,
+                "slug": "league-of-legends-prime-league-pro-division-spring-2021-regular-season",
+                "winner_id": null,
+                "winner_type": "Team"
+            }
+        ],
+        "videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "videogame_title": null,
+        "winner_id": null,
+        "winner_type": null,
+        "year": 2021
+    },
+    {
+        "begin_at": "2021-01-19T18:00:00Z",
+        "description": null,
+        "end_at": null,
+        "full_name": "Spring 2021",
+        "id": 3269,
+        "league": {
+            "id": 4411,
+            "image_url": "https://cdn.pandascore.co/images/league/image/4411/220px-NLC_2020.png",
+            "modified_at": "2020-06-10T09:51:30Z",
+            "name": "NLC",
+            "slug": "league-of-legends-nlc",
+            "url": null
+        },
+        "league_id": 4411,
+        "modified_at": "2021-01-18T18:21:42Z",
+        "name": null,
+        "season": "Spring",
+        "slug": "league-of-legends-nlc-spring-2021",
+        "tier": "c",
+        "tournaments": [
+            {
+                "begin_at": "2021-01-19T18:00:00Z",
+                "end_at": null,
+                "id": 5372,
+                "league_id": 4411,
+                "live_supported": false,
+                "modified_at": "2021-01-26T22:42:28Z",
+                "name": "Group A",
+                "prizepool": null,
+                "serie_id": 3269,
+                "slug": "league-of-legends-nlc-spring-2021-group-a",
+                "winner_id": null,
+                "winner_type": "Team"
+            },
+            {
+                "begin_at": "2021-01-19T21:00:00Z",
+                "end_at": null,
+                "id": 5373,
+                "league_id": 4411,
+                "live_supported": false,
+                "modified_at": "2021-01-22T19:02:49Z",
+                "name": "Group B",
+                "prizepool": null,
+                "serie_id": 3269,
+                "slug": "league-of-legends-nlc-spring-2021-group-b",
+                "winner_id": null,
+                "winner_type": "Team"
+            }
+        ],
+        "videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "videogame_title": null,
+        "winner_id": null,
+        "winner_type": null,
+        "year": 2021
+    },
+    {
+        "begin_at": "2021-01-19T18:00:00Z",
+        "description": null,
+        "end_at": null,
+        "full_name": "Spring 2021",
+        "id": 3232,
+        "league": {
+            "id": 4292,
+            "image_url": "https://cdn.pandascore.co/images/league/image/4292/1200px-LFL_Logo_2020.png",
+            "modified_at": "2020-02-15T13:00:22Z",
+            "name": "LFL",
+            "slug": "league-of-legends-lfl",
+            "url": "http://www.lollfl.com/"
+        },
+        "league_id": 4292,
+        "modified_at": "2021-01-05T13:11:00Z",
+        "name": "",
+        "season": "Spring",
+        "slug": "league-of-legends-lfl-spring-2021",
+        "tier": "c",
+        "tournaments": [
+            {
+                "begin_at": "2021-01-19T18:00:00Z",
+                "end_at": null,
+                "id": 5312,
+                "league_id": 4292,
+                "live_supported": false,
+                "modified_at": "2021-02-12T18:09:22Z",
+                "name": "Regular Season",
+                "prizepool": null,
+                "serie_id": 3232,
+                "slug": "league-of-legends-lfl-spring-2021-regular-season",
+                "winner_id": null,
+                "winner_type": "Team"
+            }
+        ],
+        "videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "videogame_title": null,
+        "winner_id": null,
+        "winner_type": null,
+        "year": 2021
+    },
+    {
+        "begin_at": "2021-01-19T19:00:00Z",
+        "description": null,
+        "end_at": null,
+        "full_name": "Split 1 2021",
+        "id": 3334,
+        "league": {
+            "id": 4533,
+            "image_url": "https://cdn.pandascore.co/images/league/image/4533/CBLOL_Academy_2021.png",
+            "modified_at": "2021-02-05T14:07:43Z",
+            "name": "CBLOL Academy",
+            "slug": "league-of-legends-cblol-academy",
+            "url": null
+        },
+        "league_id": 4533,
+        "modified_at": "2021-02-06T13:32:18Z",
+        "name": null,
+        "season": "Split 1",
+        "slug": "league-of-legends-cblol-academy-split-1-2021",
+        "tier": "d",
+        "tournaments": [
+            {
+                "begin_at": "2021-01-19T19:00:00Z",
+                "end_at": null,
+                "id": 5480,
+                "league_id": 4533,
+                "live_supported": false,
+                "modified_at": "2021-02-10T22:10:32Z",
+                "name": "Regular Season",
+                "prizepool": "6000 Brazilian Real",
+                "serie_id": 3334,
+                "slug": "league-of-legends-cblol-academy-split-1-2021-regular-season",
+                "winner_id": null,
+                "winner_type": "Team"
+            }
+        ],
+        "videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "videogame_title": null,
+        "winner_id": null,
+        "winner_type": null,
+        "year": 2021
+    },
+    {
+        "begin_at": "2021-01-20T18:00:00Z",
+        "description": null,
+        "end_at": null,
+        "full_name": "Spring 2021",
+        "id": 3291,
+        "league": {
+            "id": 4405,
+            "image_url": "https://cdn.pandascore.co/images/league/image/4405/220px-PG_Nationals_2020_Logo.png",
+            "modified_at": "2020-06-06T11:52:46Z",
+            "name": "PG Nationals",
+            "slug": "league-of-legends-pg-nationals",
+            "url": "http://nationals.pge.gg/"
+        },
+        "league_id": 4405,
+        "modified_at": "2021-01-19T08:57:43Z",
+        "name": null,
+        "season": "Spring",
+        "slug": "league-of-legends-pg-nationals-spring-2021",
+        "tier": "c",
+        "tournaments": [
+            {
+                "begin_at": "2021-01-20T18:00:00Z",
+                "end_at": null,
+                "id": 5397,
+                "league_id": 4405,
+                "live_supported": false,
+                "modified_at": "2021-01-28T11:15:03Z",
+                "name": "Regular",
+                "prizepool": null,
+                "serie_id": 3291,
+                "slug": "league-of-legends-pg-nationals-spring-2021-regular",
+                "winner_id": null,
+                "winner_type": "Team"
+            }
+        ],
+        "videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "videogame_title": null,
+        "winner_id": null,
+        "winner_type": null,
+        "year": 2021
+    },
+    {
+        "begin_at": "2021-01-20T21:00:00Z",
+        "description": null,
+        "end_at": null,
+        "full_name": "Spring 2021",
+        "id": 3292,
+        "league": {
+            "id": 4228,
+            "image_url": "https://cdn.pandascore.co/images/league/image/4228/image.png",
+            "modified_at": "2019-05-27T08:57:11Z",
+            "name": "LCS Academy",
+            "slug": "league-of-legends-lcs-academy",
+            "url": "https://nexus.leagueoflegends.com/en-us/esports/"
+        },
+        "league_id": 4228,
+        "modified_at": "2021-01-20T10:42:31Z",
+        "name": null,
+        "season": "Spring",
+        "slug": "league-of-legends-na-academy-spring-2021",
+        "tier": "d",
+        "tournaments": [
+            {
+                "begin_at": "2021-01-20T21:00:00Z",
+                "end_at": null,
+                "id": 5398,
+                "league_id": 4228,
+                "live_supported": false,
+                "modified_at": "2021-02-03T22:59:54Z",
+                "name": "Regular",
+                "prizepool": null,
+                "serie_id": 3292,
+                "slug": "league-of-legends-na-academy-spring-2021-regular",
+                "winner_id": null,
+                "winner_type": "Team"
+            }
+        ],
+        "videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "videogame_title": null,
+        "winner_id": null,
+        "winner_type": null,
+        "year": 2021
+    },
+    {
+        "begin_at": "2021-01-22T17:00:00Z",
+        "description": null,
+        "end_at": null,
+        "full_name": "Spring 2021",
+        "id": 2945,
+        "league": {
+            "id": 4197,
+            "image_url": "https://cdn.pandascore.co/images/league/image/4197/LEC-2019.png",
+            "modified_at": "2019-03-03T01:22:54Z",
+            "name": "LEC",
+            "slug": "league-of-legends-lec",
+            "url": null
+        },
+        "league_id": 4197,
+        "modified_at": "2021-01-09T11:58:31Z",
+        "name": "",
+        "season": "Spring",
+        "slug": "league-of-legends-lec-spring-2021",
+        "tier": "a",
+        "tournaments": [
+            {
+                "begin_at": "2021-01-22T17:00:00Z",
+                "end_at": null,
+                "id": 4710,
+                "league_id": 4197,
+                "live_supported": true,
+                "modified_at": "2021-02-09T16:59:00Z",
+                "name": "Regular Season",
+                "prizepool": null,
+                "serie_id": 2945,
+                "slug": "league-of-legends-lec-spring-2021-regular-season",
+                "winner_id": null,
+                "winner_type": "Team"
+            }
+        ],
+        "videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "videogame_title": null,
+        "winner_id": null,
+        "winner_type": null,
+        "year": 2021
+    },
+    {
+        "begin_at": "2021-01-22T23:00:00Z",
+        "description": null,
+        "end_at": null,
+        "full_name": "Spring 2021",
+        "id": 3260,
+        "league": {
+            "id": 2092,
+            "image_url": "https://cdn.pandascore.co/images/league/image/2092/ljl-japan-j27k8oms.png",
+            "modified_at": "2019-04-06T12:22:30Z",
+            "name": "LJL",
+            "slug": "league-of-legends-ljl-japan",
+            "url": null
+        },
+        "league_id": 2092,
+        "modified_at": "2021-01-13T15:54:08Z",
+        "name": "",
+        "season": "Spring",
+        "slug": "league-of-legends-ljl-japan-spring-2021",
+        "tier": "c",
+        "tournaments": [
+            {
+                "begin_at": "2021-01-23T04:00:00Z",
+                "end_at": null,
+                "id": 5358,
+                "league_id": 2092,
+                "live_supported": false,
+                "modified_at": "2021-01-23T14:26:37Z",
+                "name": "Regular Season",
+                "prizepool": null,
+                "serie_id": 3260,
+                "slug": "league-of-legends-ljl-japan-spring-2021-regular-season",
+                "winner_id": null,
+                "winner_type": "Team"
+            }
+        ],
+        "videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "videogame_title": null,
+        "winner_id": null,
+        "winner_type": null,
+        "year": 2021
+    },
+    {
+        "begin_at": "2021-01-23T11:00:00Z",
+        "description": null,
+        "end_at": null,
+        "full_name": "Winter 2021",
+        "id": 3280,
+        "league": {
+            "id": 1003,
+            "image_url": "https://cdn.pandascore.co/images/league/image/1003/turkiye-sampiyonluk-ligi-sffudtf.png",
+            "modified_at": "2019-03-03T15:03:08Z",
+            "name": "TCL",
+            "slug": "league-of-legends-turkey-championship-league",
+            "url": null
+        },
+        "league_id": 1003,
+        "modified_at": "2021-01-15T21:39:42Z",
+        "name": "",
+        "season": "Winter",
+        "slug": "league-of-legends-turkey-championship-league-winter-2021",
+        "tier": "b",
+        "tournaments": [
+            {
+                "begin_at": "2021-01-23T11:00:00Z",
+                "end_at": null,
+                "id": 5385,
+                "league_id": 1003,
+                "live_supported": false,
+                "modified_at": "2021-02-13T16:05:21Z",
+                "name": "Regular Season",
+                "prizepool": null,
+                "serie_id": 3280,
+                "slug": "league-of-legends-turkey-championship-league-winter-2021-regular-season",
+                "winner_id": null,
+                "winner_type": "Team"
+            }
+        ],
+        "videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "videogame_title": null,
+        "winner_id": null,
+        "winner_type": null,
+        "year": 2021
+    },
+    {
+        "begin_at": "2021-01-25T18:00:00Z",
+        "description": null,
+        "end_at": null,
+        "full_name": "Season 8 2021",
+        "id": 3351,
+        "league": {
+            "id": 4426,
+            "image_url": "https://cdn.pandascore.co/images/league/image/4426/220px-EBL_Logo.png",
+            "modified_at": "2020-06-20T02:01:43Z",
+            "name": "EBL",
+            "slug": "league-of-legends-ebl",
+            "url": "http://lol.balkanesports.com/en"
+        },
+        "league_id": 4426,
+        "modified_at": "2021-02-12T15:08:41Z",
+        "name": null,
+        "season": "8",
+        "slug": "league-of-legends-ebl-8-2021",
+        "tier": "c",
+        "tournaments": [
+            {
+                "begin_at": "2021-02-25T18:00:00Z",
+                "end_at": null,
+                "id": 5514,
+                "league_id": 4426,
+                "live_supported": false,
+                "modified_at": "2021-02-13T10:09:58Z",
+                "name": "Regular Season",
+                "prizepool": null,
+                "serie_id": 3351,
+                "slug": "league-of-legends-ebl-8-2021-regular-season",
+                "winner_id": null,
+                "winner_type": "Team"
+            }
+        ],
+        "videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "videogame_title": null,
+        "winner_id": null,
+        "winner_type": null,
+        "year": 2021
+    },
+    {
+        "begin_at": "2021-01-25T19:00:00Z",
+        "description": null,
+        "end_at": null,
+        "full_name": "Spring 2021",
+        "id": 3301,
+        "league": {
+            "id": 4407,
+            "image_url": "https://cdn.pandascore.co/images/league/image/4407/220px-LPLOL_2020_Logo.png",
+            "modified_at": "2020-06-07T05:46:41Z",
+            "name": "LPLOL",
+            "slug": "league-of-legends-lplol",
+            "url": "https://lplol.pt/"
+        },
+        "league_id": 4407,
+        "modified_at": "2021-01-22T07:35:00Z",
+        "name": "",
+        "season": "Spring",
+        "slug": "league-of-legends-lplol-spring-2021",
+        "tier": "c",
+        "tournaments": [
+            {
+                "begin_at": "2021-01-25T19:00:00Z",
+                "end_at": null,
+                "id": 5411,
+                "league_id": 4407,
+                "live_supported": false,
+                "modified_at": "2021-02-08T23:17:49Z",
+                "name": "Regular Season",
+                "prizepool": null,
+                "serie_id": 3301,
+                "slug": "league-of-legends-lplol-spring-2021-regular-season",
+                "winner_id": null,
+                "winner_type": "Team"
+            }
+        ],
+        "videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "videogame_title": null,
+        "winner_id": null,
+        "winner_type": null,
+        "year": 2021
+    },
+    {
+        "begin_at": "2021-01-27T17:00:00Z",
+        "description": null,
+        "end_at": null,
+        "full_name": "Spring 2021",
+        "id": 3314,
+        "league": {
+            "id": 4433,
+            "image_url": "https://cdn.pandascore.co/images/league/image/4433/220px-Hitpoint_Masters_logo.png",
+            "modified_at": "2020-06-29T21:14:29Z",
+            "name": "Hitpoint Masters",
+            "slug": "league-of-legends-hitpoint-masters",
+            "url": "https://hitpoint.cz/"
+        },
+        "league_id": 4433,
+        "modified_at": "2021-01-27T15:00:14Z",
+        "name": "",
+        "season": "Spring",
+        "slug": "league-of-legends-hitpoint-masters-spring-2021",
+        "tier": "d",
+        "tournaments": [
+            {
+                "begin_at": "2021-01-27T17:00:00Z",
+                "end_at": null,
+                "id": 5436,
+                "league_id": 4433,
+                "live_supported": false,
+                "modified_at": "2021-02-15T09:59:40Z",
+                "name": "Regular Season",
+                "prizepool": null,
+                "serie_id": 3314,
+                "slug": "league-of-legends-hitpoint-masters-spring-2021-regular-season",
+                "winner_id": null,
+                "winner_type": "Team"
+            }
+        ],
+        "videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "videogame_title": null,
+        "winner_id": null,
+        "winner_type": null,
+        "year": 2021
+    },
+    {
+        "begin_at": "2021-01-30T23:00:00Z",
+        "description": null,
+        "end_at": null,
+        "full_name": "Opening 2021",
+        "id": 3268,
+        "league": {
+            "id": 4199,
+            "image_url": "https://cdn.pandascore.co/images/league/image/4199/220px-Liga_LatinoamSrica_2020.png",
+            "modified_at": "2020-02-17T12:42:18Z",
+            "name": "LLA",
+            "slug": "league-of-legends-lla",
+            "url": "http://la.lolesports.com/"
+        },
+        "league_id": 4199,
+        "modified_at": "2021-01-14T16:08:54Z",
+        "name": "Opening",
+        "season": null,
+        "slug": "league-of-legends-lla-opening-2021",
+        "tier": "b",
+        "tournaments": [
+            {
+                "begin_at": "2021-01-30T23:00:00Z",
+                "end_at": null,
+                "id": 5371,
+                "league_id": 4199,
+                "live_supported": false,
+                "modified_at": "2021-02-14T02:04:23Z",
+                "name": "Phase 1",
+                "prizepool": null,
+                "serie_id": 3268,
+                "slug": "league-of-legends-lla-opening-2021-phase-1",
+                "winner_id": null,
+                "winner_type": "Team"
+            }
+        ],
+        "videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "videogame_title": null,
+        "winner_id": null,
+        "winner_type": null,
+        "year": 2021
+    },
+    {
+        "begin_at": "2021-02-04T23:00:00Z",
+        "description": null,
+        "end_at": "2021-03-13T23:00:00Z",
+        "full_name": "Spring 2021",
+        "id": 3325,
+        "league": {
+            "id": 4198,
+            "image_url": "https://cdn.pandascore.co/images/league/image/4198/image.png",
+            "modified_at": "2021-02-04T09:56:25Z",
+            "name": "LCS",
+            "slug": "league-of-legends-lcs",
+            "url": "https://nexus.leagueoflegends.com/en-us/esports/"
+        },
+        "league_id": 4198,
+        "modified_at": "2021-02-02T08:42:51Z",
+        "name": "",
+        "season": "Spring",
+        "slug": "league-of-legends-lcs-spring-2021",
+        "tier": "a",
+        "tournaments": [
+            {
+                "begin_at": "2021-02-05T23:00:00Z",
+                "end_at": "2021-03-13T23:00:00Z",
+                "id": 5459,
+                "league_id": 4198,
+                "live_supported": true,
+                "modified_at": "2021-02-06T04:25:26Z",
+                "name": "Regular Season",
+                "prizepool": null,
+                "serie_id": 3325,
+                "slug": "league-of-legends-lcs-spring-2021-split-regular-season",
+                "winner_id": null,
+                "winner_type": "Team"
+            }
+        ],
+        "videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "videogame_title": null,
+        "winner_id": null,
+        "winner_type": null,
+        "year": 2021
+    },
+    {
+        "begin_at": "2021-02-13T13:00:00Z",
+        "description": null,
+        "end_at": null,
+        "full_name": "Spring 2021",
+        "id": 3349,
+        "league": {
+            "id": 4004,
+            "image_url": "https://cdn.pandascore.co/images/league/image/4004/220px-LCL2020_logo.png",
+            "modified_at": "2020-02-23T23:07:55Z",
+            "name": "LCL",
+            "slug": "league-of-legends-lcl",
+            "url": null
+        },
+        "league_id": 4004,
+        "modified_at": "2021-02-11T18:53:16Z",
+        "name": null,
+        "season": "Spring",
+        "slug": "league-of-legends-lcl-spring-2021",
+        "tier": "b",
+        "tournaments": [
+            {
+                "begin_at": "2021-02-13T13:00:00Z",
+                "end_at": null,
+                "id": 5512,
+                "league_id": 4004,
+                "live_supported": false,
+                "modified_at": "2021-02-15T07:40:23Z",
+                "name": "Regular Season",
+                "prizepool": null,
+                "serie_id": 3349,
+                "slug": "league-of-legends-lcl-spring-2021-regular-season",
+                "winner_id": null,
+                "winner_type": "Team"
+            }
+        ],
+        "videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "videogame_title": null,
+        "winner_id": null,
+        "winner_type": null,
+        "year": 2021
+    }
+]
