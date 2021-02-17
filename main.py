@@ -16,15 +16,6 @@ async def on_ready():
 
 
 @bot.command()
-async def logos(ctx):  # TODO MAKE FUNC UN LCSI INDEX BY SLUG
-    with open('./assets/runningseries.json', 'r') as f:
-        resp = json.load(f)
-
-    for r in resp:
-        await ctx.send(r['league']['image_url'])
-
-
-@bot.command()
 async def lcs(ctx, *args):
     league = LCS()
     author_id = str(ctx.author.id)
@@ -58,8 +49,6 @@ async def check(ctx):
 
 @bot.command()
 async def sched(ctx):
-    league = LCS()
-    author_id = str(ctx.author.id)
 
     # INIT EMBED
     pasta = discord.Embed(title=f'LCS {lcs_week}',
@@ -68,6 +57,7 @@ async def sched(ctx):
     pasta.set_thumbnail(url="https://cdn.pandascore.co/images/league/image/4198/image.png")
 
     # GET SCHEDULE AND PREDICTIONS
+    league = LCS()
     matches = league.next_week_matches()
 
     # CONSTRUCT EMBED
