@@ -9,6 +9,13 @@ with open('./secrets.json') as s:
 bot = commands.Bot(command_prefix='$')
 
 
+@bot.command()
+async def servers(ctx):
+    c_servers = list(bot.guilds)
+    await ctx.send(f"Connected on {str(len(c_servers))} servers:")
+    await ctx.send('\n'.join(guild.name for guild in c_servers))
+
+
 @bot.event  # readyuup
 async def on_ready():
     await bot.change_presence(activity=discord.Game(name=f'Welcome to {lcs_week} of the LCS!'))
@@ -103,11 +110,15 @@ async def record(ctx):
             total_correct += oc[2]
             pasta.add_field(name=oc[0], value=f'winner: **{oc[1]}**\ncorrect? {oc[2]}')
 
-        # CALCULATE THE WR
+        # CALCULATE THE WR AND SEND A MESSAGE
         weekly_percent = round(100*total_correct/len(ocs), 2)
         pasta.description = f'{weekly_percent}% CORRECT ({total_correct}/{len(ocs)})'
+        await ctx.send(embed=pasta)
 
-    await ctx.send(embed=pasta)
+        # CLEAR THE EMBED & COUNTER
+        pasta = discord.Embed()
+        pasta.set_thumbnail(url=ctx.author.avatar_url)
+        total_correct = 0
 
 
 def run():

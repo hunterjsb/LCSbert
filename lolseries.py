@@ -1,17 +1,20 @@
 import json
 from datetime import datetime
+from requests import get
 
 # constants
 main_slugs = {'LCS': 'league-of-legends-lcs', 'LEC': 'league-of-legends-lec'}
 LEC_ID = 4197
 LCS_START = datetime(2021, 2, 5)
+with open(f'./secrets.json', 'r') as f:
+    PANDASCORE_TOKEN = json.load(f)['PANDASCORE_TOKEN']
 
 # GET NA WEEK - DECLARE END OF WEEKS AS wX_e
 now = datetime.now()
-w3_e = datetime(2021, 2, 21)
-w4_e = datetime(2021, 2, 28)
-w5_e = datetime(2021, 3, 7)
-w6_e = datetime(2021, 3, 14)
+w3_e = datetime(2021, 2, 22)
+w4_e = datetime(2021, 3, 1)
+w5_e = datetime(2021, 3, 8)
+w6_e = datetime(2021, 3, 15)
 if now <= w3_e:
     lcs_week = 'Week 3'
 elif now <= w4_e:
@@ -97,6 +100,13 @@ class LCS(LoLSeries):
     def __init__(self):
         super().__init__('LCS')
 
+    @staticmethod
+    def download_past_lcs():
+        resp = get(f'https://api.pandascore.co/lol/matches/past?token={PANDASCORE_TOKEN}'
+                   f'&filter[league_id]={LCS.ID}').json()
+        with open(f'./assets/past_LCS.json', 'w') as f1:
+            json.dump(resp, f1, indent=4)
+
     def predict(self, predictions: list or tuple, author_id: str):
         """takes in list of strings as 2 or 3 letter team abbreviations & a discord author id as a str
         then saves the predictions as json in ./assets
@@ -166,4 +176,4 @@ class LCS(LoLSeries):
 
 if __name__ == "__main__":
     lee = LCS()
-    print(lee.get_record("213709745964580874"))
+    print(lee.get_record("809520615089635389"))
